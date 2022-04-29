@@ -1,0 +1,55 @@
+Partlist
+
+Exported from untitled.sch at 2022/04/29 15:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                Device                         Package                 Library        Sheet
+
+A_C1     470?                 25PK470MEFC8X11.5              CAPPRD350W60D825H1150   SamacSys_Parts 1
+A_C2                          UFG1E470MEM                    UFG1E470MEM             UFG1E470MEM    1
+A_C3     470?                 25PK470MEFC8X11.5              CAPPRD350W60D825H1150   SamacSys_Parts 1
+A_C4                          UFG1E470MEM                    UFG1E470MEM             UFG1E470MEM    1
+C1       0.1?                 C-EUC0603                      C0603                   rcl            1
+C2       0.1?                 C-EUC0603                      C0603                   rcl            1
+C3       0.1?                 C-EUC0603                      C0603                   rcl            1
+C4       0.1?                 C-EUC0603                      C0603                   rcl            1
+C5       15p                  C-EUC0603                      C0603                   rcl            1
+C6       15p                  C-EUC0603                      C0603                   rcl            1
+C7       0.022?               C-EUC0603                      C0603                   rcl            1
+C8       100?                 25PK100MEFC5X11                PK(5X11)                SamacSys_Parts 1
+C9       100?                 25PK100MEFC5X11                PK(5X11)                SamacSys_Parts 1
+C10      470?                 25PK470MEFC8X11.5              CAPPRD350W60D825H1150   SamacSys_Parts 1
+C11                           50F2D473J                      50F2D473J               50F2D473J      1
+C12      0.1?                 C-EUC0603                      C0603                   rcl            1
+C13      0.1?                 C-EUC0603                      C0603                   rcl            1
+C14      50PK4R7MEFC5X11      50PK4R7MEFC5X11                CAPPRD200W50D525H1100   SamacSys_Parts 1
+C15      0.1?                 C-EUC0603                      C0603                   rcl            1
+C16      10?                  50PK10MEFC5X11                 CAPPRD200W50D550H1250   SamacSys_Parts 1
+C17      0.1?                 C-EUC0603                      C0603                   rcl            1
+C18                           50F2D473J                      50F2D473J               50F2D473J      1
+CN2                           S02P                           S02P                    con-amp-mt     1
+CN3                           S02P                           S02P                    con-amp-mt     1
+F1       MICROSMD010-2        MICROSMD010-2                  MICROSMD175F2           SamacSys_Parts 1
+IC1      PCM2704DBG4          PCM2704DBG4                    SOP65P780X200-28N       SamacSys_Parts 1
+IC2      NJM2845DL1-33-TE1    NJM2845DL1-33-TE1              TO-252-3-L1             SamacSys_Parts 1
+IC3      2N7002K              2N7002KW                       SOT65P210X110-3N        SamacSys_Parts 1
+IC4      UPA2735GR-E2-AX      UPA2735GR-E2-AX                SOIC127P600X175-8N      SamacSys_Parts 1
+J1                            USB2066-05-RBHM-15-STB-00-00-A USB206605RBHM15STB0000A SamacSys_Parts 1
+LED1     150060SS75000        150060SS75000                  LEDC1608X80N            SamacSys_Parts 1
+R1       22                   R-US_R0603                     R0603                   rcl            1
+R2       22                   R-US_R0603                     R0603                   rcl            1
+R3       1.5k                 R-US_R0603                     R0603                   rcl            1
+R4       1M                   R-US_R0603                     R0603                   rcl            1
+R5       1k                   R-US_R0603                     R0603                   rcl            1
+R6       330                  R-US_R0603                     R0603                   rcl            1
+R7       10k                  R-US_R0603                     R0603                   rcl            1
+R8       15                   R-US_R0603                     R0603                   rcl            1
+R9       1M                   R-US_R0603                     R0603                   rcl            1
+R10      180                  R-US_R0603                     R0603                   rcl            1
+R11      10                   R-US_R0603                     R0603                   rcl            1
+VR1      TSR-3386T-EY5-103TR  TSR-3386T-EY5-103TR            TSR3386TEY5103TR        SamacSys_Parts 1
+Y1       FA-238V_12.0000MB-K3 FA-238V_12.0000MB-K3           FA238V120000MBK3        SamacSys_Parts 1
+Z1       UDZVTE-175.1B        UDZVTE-175.1B                  UDZVTE1751B             SamacSys_Parts 1
