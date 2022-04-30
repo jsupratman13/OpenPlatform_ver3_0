@@ -9194,20 +9194,20 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 <part name="CN2" library="con-amp-mt" library_urn="urn:adsk.eagle:library:123" deviceset="S02P" device="" package3d_urn="urn:adsk.eagle:package:5789/1"/>
 <part name="GND23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="VR1" library="SamacSys_Parts" deviceset="TSR-3386T-EY5-103TR" device=""/>
-<part name="C14" library="SamacSys_Parts" deviceset="50PK4R7MEFC5X11" device=""/>
+<part name="C14" library="SamacSys_Parts" deviceset="50PK4R7MEFC5X11" device="" value="4.7μ"/>
 <part name="C16" library="SamacSys_Parts" deviceset="50PK10MEFC5X11" device="" value="10μ"/>
 <part name="C17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1μ"/>
 <part name="IC4" library="SamacSys_Parts" deviceset="UPA2735GR-E2-AX" device=""/>
 <part name="GND24" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="J1" library="SamacSys_Parts" deviceset="USB2066-05-RBHM-15-STB-00-00-A" device="" value=""/>
 <part name="GND25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C18" library="50F2D473J" deviceset="50F2D473J" device=""/>
+<part name="C18" library="50F2D473J" deviceset="50F2D473J" device="" value="0.047μ"/>
 <part name="GND21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="Z1" library="SamacSys_Parts" deviceset="UDZVTE-175.1B" device=""/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="A_C2" library="UFG1E470MEM" deviceset="UFG1E470MEM" device=""/>
-<part name="A_C4" library="UFG1E470MEM" deviceset="UFG1E470MEM" device=""/>
-<part name="C11" library="50F2D473J" deviceset="50F2D473J" device=""/>
+<part name="A_C2" library="UFG1E470MEM" deviceset="UFG1E470MEM" device="" value="47μ"/>
+<part name="A_C4" library="UFG1E470MEM" deviceset="UFG1E470MEM" device="" value="47μ"/>
+<part name="C11" library="50F2D473J" deviceset="50F2D473J" device="" value="10μ"/>
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V+" device="" value="AVCC"/>
 <part name="P+6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V+" device="" value="AVCC"/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device="" value="DVCC"/>
